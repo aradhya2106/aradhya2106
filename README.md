@@ -1,4 +1,6 @@
--👋 Hi, I’m Aradhya verma
+ ✨ I'm an undergraduate, currently studying at Indian Institute of Information Technology Vadodara, passionate about learning new things!!
+
+🔭 I’m currently working on Flutter and Node.js
 - 👀 I’m interested in Web devlopment
 - 🌱 I’m currently learning React-Native
 - 👯 I’m looking to collaborate on MERN projects
